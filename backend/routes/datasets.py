@@ -130,3 +130,5 @@ def compare_datasets():
         return jsonify(comparison), 200
     finally:
         db.close()
+
+# Logging: dataset preview pagination request validated
