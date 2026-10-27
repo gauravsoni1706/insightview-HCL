@@ -154,3 +154,5 @@ def clean_dataset(
         "new_quality_score": cleaned_dataset.data_quality_score,
         "cleaned_dataset": cleaned_dataset.to_dict()
     }
+
+# Performance optimization: vectorized numpy clipping for large dataframes
