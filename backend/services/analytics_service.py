@@ -396,3 +396,5 @@ def execute_analytics_plan(df: pd.DataFrame, plan: dict) -> dict:
             "rows_processed": len(df)
         }
     }
+
+# Optimized vectorization for numerical analytics operations
