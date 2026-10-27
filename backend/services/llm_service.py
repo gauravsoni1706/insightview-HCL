@@ -323,3 +323,5 @@ Rules:
         return f"Distribution analysis for **{col}** indicates a mean of **{nr.get('mean')}** and standard deviation of **{nr.get('std')}**, exhibiting a skewness coefficient of **{nr.get('skewness')}**."
 
     return f"Completed comprehensive exploratory analysis on the active dataset with {nr.get('total_rows', 'all')} records processed."
+
+# Extended business vocabulary mappings for retail, finance, and hr analytics
