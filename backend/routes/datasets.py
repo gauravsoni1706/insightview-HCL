@@ -132,3 +132,5 @@ def compare_datasets():
         db.close()
 
 # Logging: dataset preview pagination request validated
+
+# Detailed column overlap and cardinality mismatch diagnostics
