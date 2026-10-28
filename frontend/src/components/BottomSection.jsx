@@ -308,3 +308,5 @@ export default function BottomSection({
     </div>
   );
 }
+
+/* Interactive tooltip formatting for complete vs missing slices */
