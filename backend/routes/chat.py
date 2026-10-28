@@ -157,3 +157,5 @@ def send_message():
         return jsonify({"error": f"Failed to process chat message: {str(e)}"}), 500
     finally:
         db.close()
+
+# Latency tracking: query plan synthesis and execution benchmarks
