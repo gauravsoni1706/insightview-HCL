@@ -203,3 +203,5 @@ export default function AnalyticsSection({
     </div>
   );
 }
+
+/* Responsive margin and axis font auto-scaling */
