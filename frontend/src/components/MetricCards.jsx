@@ -130,3 +130,5 @@ export default function MetricCards({ dataset }) {
     </div>
   );
 }
+
+/* Enhanced subtle hover transition tokens */
