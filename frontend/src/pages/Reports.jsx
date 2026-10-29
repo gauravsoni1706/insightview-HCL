@@ -123,3 +123,5 @@ export default function Reports({ datasets, activityMetrics }) {
     </div>
   );
 }
+
+/* Clean tabular typography for audit execution logs */
