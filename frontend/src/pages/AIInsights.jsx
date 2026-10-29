@@ -197,3 +197,5 @@ export default function AIInsights({ dataset, insights, onRefreshInsights }) {
     </div>
   );
 }
+
+/* Visual feedback state for saved insight bookmarks */
