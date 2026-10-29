@@ -126,3 +126,5 @@ export default function Sidebar({ activeTab, setActiveTab }) {
     </aside>
   );
 }
+
+/* Brand primary blue active indicator styling */
