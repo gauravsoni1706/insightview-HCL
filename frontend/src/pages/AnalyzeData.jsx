@@ -664,3 +664,5 @@ export default function AnalyzeData({ dataset, onOpenUpload }) {
     </div>
   );
 }
+
+/* Keyboard navigation and suggestion chip focus helpers */
