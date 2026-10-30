@@ -14,3 +14,5 @@ export default defineConfig({
     }
   }
 })
+
+// Optimized rollup output chunking for production builds
