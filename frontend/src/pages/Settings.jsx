@@ -221,3 +221,5 @@ export default function Settings() {
     </div>
   );
 }
+
+/* Security: client-side key preview masking */
