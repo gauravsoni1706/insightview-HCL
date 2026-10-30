@@ -95,3 +95,5 @@ export default function Help({ onSwitchToAnalyze }) {
     </div>
   );
 }
+
+/* Documented supported operations and schema validation rules */
