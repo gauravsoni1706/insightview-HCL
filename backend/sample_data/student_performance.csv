@@ -1,0 +1,17 @@
+Student_ID,Student_Name,Gender,Grade_Level,Math_Score,Science_Score,English_Score,Attendance_Percentage,Study_Hours_Per_Week,Passed
+STU-301,Aarav Sharma,Male,Grade 10,88,92,85,96.5,14,Yes
+STU-302,Ananya Gupta,Female,Grade 10,95,94,98,98.0,18,Yes
+STU-303,Rohan Verma,Male,Grade 11,62,58,65,82.0,8,Yes
+STU-304,Priya Patel,Female,Grade 11,91,89,94,95.0,15,Yes
+STU-305,Vikram Singh,Male,Grade 12,74,78,70,88.5,10,Yes
+STU-306,Neha Reddy,Female,Grade 12,83,86,90,92.0,12,Yes
+STU-307,Siddharth Rao,Male,Grade 10,45,42,50,70.0,5,No
+STU-308,Kavya Mehta,Female,Grade 10,79,81,84,91.0,11,Yes
+STU-309,Rahul Joshi,Male,Grade 11,96,98,92,99.0,20,Yes
+STU-310,Ishita Das,Female,Grade 11,87,85,89,94.0,13,Yes
+STU-311,Karan Kapoor,Male,Grade 12,52,49,55,76.0,6,No
+STU-312,Sneha Iyer,Female,Grade 12,90,93,96,97.5,16,Yes
+STU-313,Manish Nair,Male,Grade 10,81,84,79,90.0,11,Yes
+STU-314,Pooja Saxena,Female,Grade 10,68,72,75,85.0,9,Yes
+STU-315,Devendra Kumar,Male,Grade 11,89,91,87,93.0,14,Yes
+STU-316,Riya Sen,Female,Grade 11,76,79,82,89.0,10,Yes

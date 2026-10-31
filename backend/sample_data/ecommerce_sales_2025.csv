@@ -1,0 +1,17 @@
+Order_ID,Order_Date,Customer_Name,Category,Product_Name,Quantity,Unit_Price,Total_Revenue,Payment_Method,Region
+ORD-2001,2025-01-05,Aarav Sharma,Electronics,Laptop Pro 15,2,1200,2400,Credit Card,North
+ORD-2002,2025-01-08,Ananya Gupta,Electronics,Wireless Ergonomic Mouse,5,45,225,UPI,West
+ORD-2003,2025-01-12,Rohan Verma,Furniture,Standing Desk Converter,1,350,350,Net Banking,East
+ORD-2004,2025-01-15,Priya Patel,Electronics,Noise-Canceling Headphones,3,220,660,Credit Card,South
+ORD-2005,2025-01-20,Vikram Singh,Furniture,Ergonomic Leather Chair,2,499,998,Credit Card,North
+ORD-2006,2025-02-02,Neha Reddy,Electronics,Mechanical RGB Keyboard,4,110,440,UPI,West
+ORD-2007,2025-02-10,Siddharth Rao,Electronics,4K Ultra HD Monitor,2,450,900,Net Banking,East
+ORD-2008,2025-02-14,Kavya Mehta,Furniture,Bamboo Monitor Stand,6,35,210,UPI,South
+ORD-2009,2025-02-22,Rahul Joshi,Electronics,Smart Fitness Watch,3,199,597,Credit Card,North
+ORD-2010,2025-03-01,Ishita Das,Electronics,High-Speed USB-C Hub,8,25,200,UPI,West
+ORD-2011,2025-03-08,Karan Kapoor,Furniture,Executive Wooden Desk,1,850,850,Credit Card,East
+ORD-2012,2025-03-15,Sneha Iyer,Furniture,Desk LED Lamp,4,40,160,Net Banking,South
+ORD-2013,2025-03-20,Manish Nair,Electronics,Portable External SSD 1TB,2,140,280,Credit Card,North
+ORD-2014,2025-04-02,Pooja Saxena,Electronics,HD Webcam 1080p,3,75,225,UPI,West
+ORD-2015,2025-04-10,Devendra Kumar,Furniture,Bookshelf Unit,2,180,360,Net Banking,East
+ORD-2016,2025-04-18,Riya Sen,Electronics,Bluetooth Conference Speaker,1,299,299,Credit Card,South

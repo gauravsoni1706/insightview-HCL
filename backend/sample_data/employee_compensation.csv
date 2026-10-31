@@ -1,0 +1,19 @@
+Employee_ID,Name,Gender,Department,Role,Salary,Bonus,Joining_Date,Performance_Rating,Region
+EMP-101,Aarav Sharma,Male,Engineering,Senior Software Engineer,95000,12000,2021-03-15,4.8,North
+EMP-102,Ananya Gupta,Female,Marketing,Marketing Manager,78000,8500,2020-06-20,4.5,East
+EMP-103,Rohan Verma,Male,Sales,Sales Director,125000,25000,2018-11-10,4.9,South
+EMP-104,Priya Patel,Female,Engineering,Frontend Developer,72000,6000,2023-01-05,4.1,West
+EMP-105,Vikram Singh,Male,Finance,Financial Analyst,88000,9000,2019-08-12,4.6,North
+EMP-106,Neha Reddy,Female,Human Resources,HR Specialist,62000,5000,2022-09-01,4.2,South
+EMP-107,Siddharth Rao,Male,Sales,Account Executive,105000,18000,2019-04-18,4.7,West
+EMP-108,Kavya Mehta,Female,Marketing,Content Strategist,68000,5500,2023-05-14,4.0,North
+EMP-109,Rahul Joshi,Male,Engineering,DevOps Lead,110000,15000,2017-02-28,4.8,East
+EMP-110,Ishita Das,Female,Finance,Senior Auditor,92000,10000,2021-12-01,4.4,West
+EMP-111,Karan Kapoor,Male,Sales,Regional Sales Lead,115000,22000,2020-02-10,4.6,North
+EMP-112,Sneha Iyer,Female,Human Resources,HR Lead,75000,7000,2018-07-22,4.3,South
+EMP-113,Manish Nair,Male,Engineering,Data Engineer,102000,14000,2020-09-30,4.7,South
+EMP-114,Pooja Saxena,Female,Marketing,SEO Analyst,64000,4500,2022-11-19,3.9,West
+EMP-115,Devendra Kumar,Male,Finance,Finance Manager,118000,16000,2017-04-03,4.9,East
+EMP-116,Riya Sen,Female,Engineering,QA Lead,83000,7500,2021-08-15,4.2,North
+EMP-117,Amitabh Banerjee,Male,Sales,Sales Associate,68000,8000,2023-03-22,4.0,East
+EMP-118,Tanya Malhotra,Female,Finance,Risk Analyst,86000,9200,2022-01-10,4.5,South
